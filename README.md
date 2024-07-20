@@ -1,4 +1,4 @@
-# Hi, I'm Coshgun
+# Hi, I'm a Coshgun and full-stack developer
 
 ## Skils
 ### Languages
@@ -25,8 +25,10 @@
 - git
 - github
 - npm
+- pip
 
 ## My works
+- [NoteApp website](https://noteapp-b3ih.onrender.com/)
 - [sqlite3-methods npm package](https://www.npmjs.com/package/sqlite3-methods)
 
 ## Top Languages
