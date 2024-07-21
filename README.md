@@ -28,7 +28,7 @@
 - pip
 
 ## My works
-- [NoteApp website](https://noteapp-b3ih.onrender.com/)
+- [NoteApp website](https://noteapp1-afe9197dc803.herokuapp.com/)
 - [sqlite3-methods npm package](https://www.npmjs.com/package/sqlite3-methods)
 
 ## Top Languages
