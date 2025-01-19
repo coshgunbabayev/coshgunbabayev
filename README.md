@@ -1,4 +1,4 @@
-# Hi, I'm a Coshgun and
+# Hi, I'm a Coshgun
 # Full-stack developer / Software engineer
 
 ## Skills
